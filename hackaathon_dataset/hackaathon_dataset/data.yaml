@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/hackaathon_dataset/train/images
+val: /content/drive/MyDrive/hackaathon_dataset/valid/images
+test: /content/drive/MyDrive/hackaathon_dataset/test/images
+
+nc: 3
+names: ['bag', 'sunglasses', 'watch']
